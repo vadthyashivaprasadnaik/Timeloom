@@ -1,0 +1,51 @@
+[
+    {
+        "task": "python",
+        "category": "study",
+        "start": "2025-11-02 19:18:40",
+        "end": "2025-11-02 19:18:44",
+        "duration_mins": 0.06
+    },
+    {
+        "task": "company work",
+        "category": "work",
+        "start": "2025-11-02 19:18:54",
+        "end": "2025-11-02 19:18:56",
+        "duration_mins": 0.04
+    },
+    {
+        "task": "riding",
+        "category": "riding",
+        "start": "2025-11-02 19:21:09",
+        "end": "2025-11-02 19:21:15",
+        "duration_mins": 0.09
+    },
+    {
+        "task": "work",
+        "category": "work",
+        "start": "2025-11-02 19:27:03",
+        "end": "2025-11-02 19:27:14",
+        "duration_mins": 0.18
+    },
+    {
+        "task": "practice",
+        "category": "study",
+        "start": "2025-11-05 19:49:44",
+        "end": "2025-11-05 19:50:02",
+        "duration_mins": 0.3
+    },
+    {
+        "task": "study",
+        "category": "study",
+        "start": "2025-11-05 20:27:49",
+        "end": "2025-11-05 20:28:00",
+        "duration_mins": 0.19
+    },
+    {
+        "task": "Python Project using tkinter",
+        "category": "Study",
+        "start": "2025-11-07 14:54:51",
+        "end": "2025-11-07 14:55:12",
+        "duration_mins": 0.34
+    }
+]
